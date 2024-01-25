@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Java8 lambda introduction</title>
+      <link href="/2024/01/25/Java8-lambda-introduction/"/>
+      <url>/2024/01/25/Java8-lambda-introduction/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Java8-lambda-introduction"><a href="#Java8-lambda-introduction" class="headerlink" title="Java8 lambda introduction"></a>Java8 lambda introduction</h1><p>A java8 lambda introduction using star wars movies information.</p><h2 id="Compile-and-assemble"><a href="#Compile-and-assemble" class="headerlink" title="Compile and assemble"></a>Compile and assemble</h2><ul><li>Run <code>make compile</code> to build</li><li>Run <code>make assemble</code> to build with dependencies.</li></ul><p>It was developed using Java 8 and Maven 3.5.0.</p><h2 id="filter"><a href="#filter" class="headerlink" title="filter"></a><code>filter</code></h2><ul><li>Work with predicate</li><li>Find movies by director</li><li>Find movies by date</li><li>Find movies beetween two dates</li><li>Find movies by character</li><li>Multiple predicates</li></ul><p>Run with:</p><ul><li><code>make filter</code></li><li><code>make finder</code></li></ul><h2 id="maps"><a href="#maps" class="headerlink" title="maps"></a><code>maps</code></h2><ul><li>What are maps?</li><li>All titles</li><li>All directors</li><li>All characters</li></ul><p>Run with:</p><ul><li><code>make mapper</code></li></ul><h2 id="sort"><a href="#sort" class="headerlink" title="sort"></a><code>sort</code></h2><ul><li>Writing a Comparator</li><li>Sort by Id</li><li>Sort by Release Date</li><li>Sort by Chronological Order</li><li>Sort by Custom Order</li></ul><p>Run with:</p><ul><li><code>make order</code></li><li><code>make sorter</code></li></ul><h2 id="collectors"><a href="#collectors" class="headerlink" title="collectors"></a><code>collectors</code></h2><ul><li>What are collectors?</li><li>Force Alignments x Characters</li><li>Movie Kinds x Movie Titles</li></ul><p>Run with:</p><ul><li><code>make collector</code></li></ul><h2 id="Cleaning"><a href="#Cleaning" class="headerlink" title="Cleaning"></a>Cleaning</h2><ul><li>Run <code>make clean</code> or simply <code>make</code>.</li></ul><h2 id="Copyright-Information"><a href="#Copyright-Information" class="headerlink" title="Copyright Information"></a>Copyright Information</h2><p>(C) Star Wars is property of Disney All Rights Reserved</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Beginner&#39;s Series - Intro to JavaScript</title>
       <link href="/2024/01/25/Beginner-s-Series-Intro-to-JavaScript/"/>
       <url>/2024/01/25/Beginner-s-Series-Intro-to-JavaScript/</url>
