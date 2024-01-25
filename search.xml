@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Introductory Markdown</title>
+      <link href="/2024/01/25/Introductory-Markdown/"/>
+      <url>/2024/01/25/Introductory-Markdown/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Introductory-Markdown"><a href="#Introductory-Markdown" class="headerlink" title="Introductory Markdown"></a>Introductory Markdown</h1><p>This is a short introduction to Markdown, a pre-requisite to GitHub and Literate programming tools (Jupyter, R Notebooks). </p><h2 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h2><p>Markdown a plain text formatting syntax; and a software tool that converts the plain text formatting to HTML. Any text editor can be used to prepare markdown documents but needs a markdown software to convert it. Markdown editors, however, have an inbuilt conversion tool. Rstudio can convert markdown to a variety of formats, including HTML, pdf. </p><p>For the purpose of this training, we will use the <a href="https://markdown-here.com/livedemo.html">online editor</a> for editing and rendering. </p><h2 id="Markdown-Syntax"><a href="#Markdown-Syntax" class="headerlink" title="Markdown Syntax"></a>Markdown Syntax</h2><p>We will use the <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet">Markdown Here Cheatsheet</a> materials to learn the basic syntax. See also: <a href="https://commonmark.org/help/">https://commonmark.org/help/</a>. </p><h2 id="Try-it-yourself"><a href="#Try-it-yourself" class="headerlink" title="Try it yourself"></a>Try it yourself</h2><p>Spend the next 10 minutes working through <a href="https://commonmark.org/help/tutorial/">this exercise</a> to gauge your ability to write documents in markdown. </p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Earthquakes Nature&#39;s Powerful Tremors</title>
       <link href="/2024/01/25/Nature-s-Powerful-Tremors/"/>
       <url>/2024/01/25/Nature-s-Powerful-Tremors/</url>
