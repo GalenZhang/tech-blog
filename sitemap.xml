@@ -164,14 +164,14 @@
 
   
   <url>
-    <loc>https://twenty-nine.cn/tags/ChatGPT/</loc>
+    <loc>https://twenty-nine.cn/tags/JavaScript/</loc>
     <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://twenty-nine.cn/tags/JavaScript/</loc>
+    <loc>https://twenty-nine.cn/tags/ChatGPT/</loc>
     <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -192,7 +192,7 @@
   </url>
   
   <url>
-    <loc>https://twenty-nine.cn/tags/Java/</loc>
+    <loc>https://twenty-nine.cn/tags/Docker/</loc>
     <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -206,14 +206,7 @@
   </url>
   
   <url>
-    <loc>https://twenty-nine.cn/tags/Docker/</loc>
-    <lastmod>2024-02-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://twenty-nine.cn/tags/React/</loc>
+    <loc>https://twenty-nine.cn/tags/Java/</loc>
     <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -226,17 +219,24 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://twenty-nine.cn/tags/React/</loc>
+    <lastmod>2024-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
-    <loc>https://twenty-nine.cn/categories/AI/</loc>
+    <loc>https://twenty-nine.cn/categories/JavaScript/</loc>
     <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://twenty-nine.cn/categories/JavaScript/</loc>
+    <loc>https://twenty-nine.cn/categories/AI/</loc>
     <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
