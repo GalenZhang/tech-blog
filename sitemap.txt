@@ -19,10 +19,10 @@ https://twenty-nine.cn/2024/01/25/Nature-s-Powerful-Tremors/
 https://twenty-nine.cn/
 https://twenty-nine.cn/tags/JavaScript/
 https://twenty-nine.cn/tags/ChatGPT/
-https://twenty-nine.cn/tags/Github/
 https://twenty-nine.cn/tags/Docker/
-https://twenty-nine.cn/tags/Postman/
 https://twenty-nine.cn/tags/Git/
+https://twenty-nine.cn/tags/Github/
+https://twenty-nine.cn/tags/Postman/
 https://twenty-nine.cn/tags/Java/
 https://twenty-nine.cn/tags/English/
 https://twenty-nine.cn/tags/React/
