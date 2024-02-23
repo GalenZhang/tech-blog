@@ -1,7 +1,8 @@
+https://twenty-nine.cn/2024/01/25/ChatGPT-API-Demo/
+https://twenty-nine.cn/2024/01/25/Beginner-s-Series-Intro-to-JavaScript/
 https://twenty-nine.cn/2024/02/21/Learning-Node-js-and-Express/
 https://twenty-nine.cn/2024/01/26/JavaScript-ES6-Syntax/
 https://twenty-nine.cn/2024/01/26/ES6-Intro/
-https://twenty-nine.cn/2024/01/25/Beginner-s-Series-Intro-to-JavaScript/
 https://twenty-nine.cn/2024/01/25/Github-Actions-tutorial/
 https://twenty-nine.cn/2024/01/25/Introduction-to-Git-version-Control/
 https://twenty-nine.cn/2024/01/26/Introduction-to-Postman/
@@ -11,7 +12,6 @@ https://twenty-nine.cn/2024/01/25/What-is-React/
 https://twenty-nine.cn/2024/01/25/Java8-lambda-introduction/
 https://twenty-nine.cn/categories/index.html
 https://twenty-nine.cn/2024/01/25/ChatGPT-system-prompt/
-https://twenty-nine.cn/2024/01/25/ChatGPT-API-Demo/
 https://twenty-nine.cn/2024/01/26/Docker-basic-Learning/
 https://twenty-nine.cn/tags/index.html
 https://twenty-nine.cn/2024/01/25/Introductory-Markdown/
@@ -20,8 +20,8 @@ https://twenty-nine.cn/
 https://twenty-nine.cn/tags/JavaScript/
 https://twenty-nine.cn/tags/ChatGPT/
 https://twenty-nine.cn/tags/Docker/
-https://twenty-nine.cn/tags/Git/
 https://twenty-nine.cn/tags/Github/
+https://twenty-nine.cn/tags/Git/
 https://twenty-nine.cn/tags/Postman/
 https://twenty-nine.cn/tags/Java/
 https://twenty-nine.cn/tags/English/
