@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Learn Firebase with Vite</title>
+      <link href="/2024/02/26/Learn-Firebase-with-Vite/"/>
+      <url>/2024/02/26/Learn-Firebase-with-Vite/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Learn-Firebase-with-Vite"><a href="#Learn-Firebase-with-Vite" class="headerlink" title="Learn Firebase with Vite"></a>Learn Firebase with Vite</h1><blockquote><p>Example combining Firebase SDK (mainly Firestore DB), Preact, Typescript, Tailwind created with Vite.<br><a href="https://github.com/moebiusmania/learn-firebase-with-vite">https://github.com/moebiusmania/learn-firebase-with-vite</a></p></blockquote><h2 id="BEFORE-GETTING-STARTED"><a href="#BEFORE-GETTING-STARTED" class="headerlink" title="BEFORE GETTING STARTED"></a>BEFORE GETTING STARTED</h2><p>Create an <code>.env</code> file starting from the <code>.env.example</code> template and add your <code>appID</code> value from the Firebase Dashboard.</p><h2 id="What’s-being-used"><a href="#What’s-being-used" class="headerlink" title="What’s being used:"></a>What’s being used:</h2><ul><li><a href="https://vitejs.dev/">Vite</a> - project scaffolding &amp; development setup</li><li><a href="https://preactjs.com/">Preact</a> - React-like library closer to the Web Standards</li><li><a href="https://www.typescriptlang.org/">Typescript</a> - static type checking for Javascript</li><li><a href="https://tailwindcss.com/">TailwindCSS</a> - CSS framework base on atomic class utilities</li></ul><h2 id="Getting-started"><a href="#Getting-started" class="headerlink" title="Getting started"></a>Getting started</h2><ul><li>create a project in Firebase dashboard</li><li>add a new Firestore database with a collection named <code>messages</code></li><li>Clone the repo</li><li><code>cd</code>‘s into into and install dependencies with</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm ci</span><br></pre></td></tr></table></figure><ul><li>copy the content of <code>.env.example</code> in a new <code>.env</code> file</li><li>replace the placeholder values with the <code>appId</code> and <code>projectID</code> from your Firebase project settings</li><li>(instantly) start the dev server</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm run dev</span><br></pre></td></tr></table></figure><h2 id="Deploy-with-GH-Actions-Pages"><a href="#Deploy-with-GH-Actions-Pages" class="headerlink" title="Deploy with GH Actions &amp; Pages"></a>Deploy with GH Actions &amp; Pages</h2><p>This repo contains a <code>./github/workflows/build.yml</code> file which is configured to build the application with Github Actions and deploy on Github Pages.</p><p>In order for the build to work you will also have to add 2 new Secrets in Github repository settings: <code>VITE_APPID</code> and <code>VITE_PROJECTID</code> with the same values you previously used for the <code>.env</code> file.</p><h2 id="License"><a href="#License" class="headerlink" title="License"></a>License</h2><p>Released with <a href="LICENSE">MIT license</a>.</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Learning Node.js and Express</title>
       <link href="/2024/02/21/Learning-Node-js-and-Express/"/>
       <url>/2024/02/21/Learning-Node-js-and-Express/</url>

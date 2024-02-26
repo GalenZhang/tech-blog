@@ -1,3 +1,4 @@
+https://twenty-nine.cn/2024/02/26/Learn-Firebase-with-Vite/
 https://twenty-nine.cn/2024/01/25/ChatGPT-API-Demo/
 https://twenty-nine.cn/2024/01/25/Beginner-s-Series-Intro-to-JavaScript/
 https://twenty-nine.cn/2024/02/21/Learning-Node-js-and-Express/
@@ -20,9 +21,9 @@ https://twenty-nine.cn/
 https://twenty-nine.cn/tags/JavaScript/
 https://twenty-nine.cn/tags/ChatGPT/
 https://twenty-nine.cn/tags/Docker/
-https://twenty-nine.cn/tags/Github/
 https://twenty-nine.cn/tags/Git/
 https://twenty-nine.cn/tags/Postman/
+https://twenty-nine.cn/tags/Github/
 https://twenty-nine.cn/tags/Java/
 https://twenty-nine.cn/tags/English/
 https://twenty-nine.cn/tags/React/
